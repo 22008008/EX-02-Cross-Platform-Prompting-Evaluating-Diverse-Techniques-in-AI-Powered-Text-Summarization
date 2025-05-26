@@ -67,6 +67,7 @@ The generated summaries will be evaluated based on the following criteria:
 
 **Speed:** The time taken by the AI platform to generate the summary after receiving the prompt. This will be a quantitative measure.
 User Experience: A qualitative assessment of the ease of interacting with each platform using different prompting techniques. This includes the intuitiveness of the interface, the clarity of the AI's response beyond the summary itself, and any challenges encountered during the prompting process.
+
 **Step 5:** Comparative Analysis:
 
 The evaluation results for each combination of prompting technique and AI platform will be compiled and compared. This will involve:
@@ -74,6 +75,7 @@ Creating a table or matrix to present the evaluation scores for each criterion a
 Identifying the strengths and weaknesses of each prompting technique on each platform.
 Determining which combination(s) consistently perform well across all or most evaluation criteria.
 Analyzing any significant differences in performance between the platforms for a given prompting technique, and vice versa.
+
 **Step 6:** Documentation of Results and Observations:
 
 A detailed report will be generated, documenting the entire evaluation process, including:
